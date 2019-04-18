@@ -1,0 +1,1 @@
+This is an API for a getting teacher and subjects in a school database management system
